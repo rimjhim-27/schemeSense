@@ -1,0 +1,8 @@
+{
+  "name": "SchemeSense - Welfare Portal",
+  "description": "A comprehensive government welfare scheme portal designed for high accessibility and ease of use in rural and semi-urban areas.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
